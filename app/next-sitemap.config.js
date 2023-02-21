@@ -6,8 +6,8 @@ const config = {
   generateRobotsTxt: true,
 	robotsTxtOptions: {
 		additionalSitemaps: [
-      'https://barbacodes.com.br/sitemap.xml',
-      'https://barbacodes.com.br/server-sitemap-index.xml',
+      'https://casamenteiro.barbacodes.com.br/sitemap.xml',
+      'https://casamenteiro.barbacodes.com.br/server-sitemap-index.xml',
     ],
     policies: [
 			{ userAgent: '*', allow: '/' },
