@@ -34,6 +34,7 @@ export default class MyDocument extends Document {
       <Html lang="pt-BR">
         <Head>
           <meta charSet="utf-8" />
+          <title>Casamenteiro</title>
         </Head>
         <body>
           <Main />
